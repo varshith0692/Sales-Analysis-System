@@ -1,0 +1,16 @@
+Date,Product,Category,Quantity,Unit_Price,Total_Sales
+2025-01-01,Laptop,Electronics,2,750,1500
+2025-01-02,Mouse,Electronics,5,20,100
+2025-01-03,Keyboard,Electronics,3,45,135
+2025-01-04,Monitor,Electronics,2,200,400
+2025-01-05,Printer,Electronics,1,180,180
+2025-01-06,Desk,Furniture,1,250,250
+2025-01-07,Chair,Furniture,4,120,480
+2025-01-08,Notebook,Stationery,10,5,50
+2025-01-09,Pen,Stationery,20,2,40
+2025-01-10,Tablet,Electronics,3,300,900
+2025-01-11,Phone,Electronics,2,600,1200
+2025-01-12,Headphones,Electronics,5,80,400
+2025-01-13,Webcam,Electronics,4,60,240
+2025-01-14,Speaker,Electronics,3,90,270
+2025-01-15,Bookshelf,Furniture,2,150,300
